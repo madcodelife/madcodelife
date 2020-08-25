@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gassnake999/gassnake999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+	<br>
+	<img src="hello.svg" width="800" height="400">
+	<br>
+</div>
