@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 	<br>
-	<img src="./hello.svg" width="800" height="400">
+	<img src="https://github.com/gassnake999/gassnake999/blob/master/hello.svg" width="800" height="400">
 	<br>
 </div>
